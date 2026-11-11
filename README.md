@@ -1,5 +1,7 @@
 # Shift Multi-Build
 
+<img src="media/icon.png" alt="Shift Multi-Build icon" width="128" height="128">
+
 Hold Shift after successful machine placement to keep the selected building ghost.
 
 ## Install
