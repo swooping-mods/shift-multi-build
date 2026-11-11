@@ -1,0 +1,13 @@
+{
+  "id": "shift-multi-build",
+  "kind": "native",
+  "version": "0.1.0",
+  "backlog": "M12",
+  "display_name": "Shift Multi-Build",
+  "gameplay": true,
+  "feature_dependencies": [],
+  "play_help": [
+    "Hold Shift after successful machine placement to keep the selected building ghost.",
+    "Implementation candidate. Gameplay testing is deferred."
+  ]
+}
